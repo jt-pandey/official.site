@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://jt-pandey.tk/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
@@ -15,10 +15,10 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
-    subtitle = "A simple theme for Hugo"
-    keywords = ""
-    copyright = ""
+    title = "jt-pandey"
+    subtitle = "About me"
+    keywords = "jt-pandey jatin pandey jatinpandey jtpandey"
+    copyright = "jatin pandey"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "hello friend"
+      logoText = "root@jt-pandey:~$"
       logoHomeLink = "/"
     # or
     #
@@ -44,5 +44,5 @@ paginate = 5
         url = "/about"
       [[languages.en.menu.main]]
         identifier = "showcase"
-        name = "Showcase"
+        name = "Projects"
         url = "/showcase"
