@@ -1,4 +1,4 @@
-baseurl = "https://jt-pandey.tk/"
+baseurl = "https://jatinpandey.tk/"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
