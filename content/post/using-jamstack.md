@@ -35,13 +35,13 @@ Here's the gist of it.
 ### For Windows
 
 For windows, you just need to run these commands in Command Prompt
-```
-    choco install hugo -confirm
-```
+
+        choco install hugo -confirm
+
 This installs Hugo in the path, but sometimes you need an extended version for SCSS/CSS interconversion, so I recommend installing the 'extended' version
-```
-    choco install hugo-extended -confirm
-```
+
+        choco install hugo-extended -confirm
+
 The extended version is better if you are making a modern day site.
 
 ### For Linux
@@ -50,16 +50,26 @@ For Linux, you can use the pre installed package manager for example, _apt_ for 
 
 To install it manually, you can download it from the [official Hugo repo](https://github.com/gohugoio/hugo/releases "githubrepo") on github and then use the following commands:
 
-```
-	tar -xvzf ~/Downloads/*your downloaded tarball*
-```
+    	tar -xvzf ~/Downloads/*your downloaded tarball*
 
 And now we have to move this file to the bin directory, and for this you will need superuser privileges.
 
-```
-	sudo mv ~/Downloads/*the directory* /usr/local/bin
-```
-
+    	sudo mv ~/Downloads/*the directory* /usr/local/bin
 
 And that's it, now you have Hugo up and running, check this by running the _hugo version_ command.
 
+## Making a hugo site.
+
+Now, you can start making a site. To do this, just type this command
+
+        hugo new site <site-name>
+
+When you run this command, a new directory with name _<site name>_ will be created so just get into the directory with the command
+
+ **_cd <site-name>_**
+
+Here's what is should look like
+
+![](/uploads/screenshot-2021-02-06-180611.png)
+
+Now we have to get themes. You can get a lot of themes from all around the internet and for this purpose Hugo has a webpage too! Just go to [https://themes.gohugo.io/](https://themes.gohugo.io/ "https://themes.gohugo.io/")
