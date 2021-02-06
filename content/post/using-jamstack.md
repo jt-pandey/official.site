@@ -35,13 +35,13 @@ Here's the gist of it.
 ### For Windows
 
 For windows, you just need to run these commands in Command Prompt
-
+```
     choco install hugo -confirm
-
+```
 This installs Hugo in the path, but sometimes you need an extended version for SCSS/CSS interconversion, so I recommend installing the 'extended' version
-
+```
     choco install hugo-extended -confirm
-
+```
 The extended version is better if you are making a modern day site.
 
 ### For Linux
@@ -49,3 +49,17 @@ The extended version is better if you are making a modern day site.
 For Linux, you can use the pre installed package manager for example, _apt_ for Debian and Ubuntu, and _zypper_ for OpenSuse etc.
 
 To install it manually, you can download it from the [official Hugo repo](https://github.com/gohugoio/hugo/releases "githubrepo") on github and then use the following commands:
+
+```
+	tar -xvzf ~/Downloads/*your downloaded tarball*
+```
+
+And now we have to move this file to the bin directory, and for this you will need superuser privileges.
+
+```
+	sudo mv ~/Downloads/*the directory* /usr/local/bin
+```
+
+
+And that's it, now you have Hugo up and running, check this by running the _hugo version_ command.
+
