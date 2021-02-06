@@ -49,5 +49,3 @@ The extended version is better if you are making a modern day site.
 For Linux, you can use the pre installed package manager for example, _apt_ for Debian and Ubuntu, and _zypper_ for OpenSuse etc.
 
 To install it manually, you can download it from the [official Hugo repo](https://github.com/gohugoio/hugo/releases "githubrepo") on github and then use the following commands:
-
-    
