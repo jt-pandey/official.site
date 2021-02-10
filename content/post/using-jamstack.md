@@ -3,6 +3,7 @@ author = "Jatin"
 cover = "img/hello.jpg"
 date = 2021-02-05T00:00:00Z
 description = "How to deploy a jamstack site with hugo and netlify"
+draft = true
 title = "Using Jamstack"
 
 +++
