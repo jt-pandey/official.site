@@ -73,3 +73,5 @@ Here's what is should look like
 ![](/uploads/screenshot-2021-02-06-180611.png)
 
 Now we have to get themes. You can get a lot of themes from all around the internet and for this purpose Hugo has a webpage too! Just go to [https://themes.gohugo.io/](https://themes.gohugo.io/ "https://themes.gohugo.io/")
+  
+  <p style="text-align: center"> This has to be a centred Text </p>
