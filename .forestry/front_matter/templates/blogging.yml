@@ -1,0 +1,19 @@
+---
+label: Blogging
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: file
+  name: cover
+  label: cover
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: description
+  label: description
+- type: text
+  name: title
+  label: title
