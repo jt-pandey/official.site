@@ -3,7 +3,6 @@ author = "Jatin Pandey"
 cover = "/uploads/derek-owens-q8jx6lfpkt8-unsplash.jpg"
 date = 2021-06-07T18:30:00Z
 description = "Our No-shit tutorial on how to torrent safely"
-draft = true
 title = "How to torrent, a beginner's guide"
 
 +++
