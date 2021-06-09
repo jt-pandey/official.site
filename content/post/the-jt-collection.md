@@ -3,7 +3,6 @@ author = "Jatin Pandey"
 cover = "/uploads/denise-jans-inp-qd5ibxy-unsplash.jpg"
 date = 2021-06-10T18:30:00Z
 description = "List of all the S-rated JT collection torrents"
-draft = true
 title = "The JT Collection"
 
 +++
