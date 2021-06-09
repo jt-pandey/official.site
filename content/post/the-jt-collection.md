@@ -3,6 +3,7 @@ author = "Jatin Pandey"
 cover = "/uploads/denise-jans-inp-qd5ibxy-unsplash.jpg"
 date = 2021-06-10T18:30:00Z
 description = "List of all the S-rated JT collection torrents"
+draft = true
 title = "The JT Collection"
 
 +++
@@ -52,9 +53,15 @@ This is a movie about a dystopia where all the females have become infertile (or
 
 ### Contagion
 
-![](https://fanart.tv/detailpreview/fanart/movies/39538/movieposter/contagion-541447379a846.jpg)
+[![](https://fanart.tv/detailpreview/fanart/movies/39538/movieposter/contagion-541447379a846.jpg)](/uploads/contagion-2011-720p-bluray-yts-mx.torrent "Movie link")
 
 A movie about a pandemic, what more can you ask for, lol
+
+### Ford V Ferrari
+
+![](https://fanart.tv/detailpreview/fanart/movies/359724/movieposter/ford-v-ferrari-5ddd732daf49f.jpg)
+
+A movie about the speed wars between Ford and Ferrari. Speed go brrrrrr.
 
 ### Happy Death Day
 
