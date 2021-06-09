@@ -11,7 +11,7 @@ The following movies are in alphabetical order, you can either scroll down (ther
 
 ### 1917 (2019)
 
-[![](/uploads/1917-5e32eccfe5ea5.jpg)]()
+![](/uploads/1917-5e32eccfe5ea5.jpg)
 
 A beautiful movie about the horrors of war in a single breathtaking shot. It was shot in such a way that it looked like a single take though there were more than one takes used.
 
@@ -50,6 +50,12 @@ This is a once shot movie shot by one of the greatest Mexican directors. A nice 
 ![](https://fanart.tv/detailpreview/fanart/movies/9693/movieposter/children-of-men-5385cbd14a30f.jpg)
 
 This is a movie about a dystopia where all the females have become infertile (or is it the men). No part of this movie seems fake. The political and social commentary the movie shoots at you gets through and stays with you.
+
+### Contagion
+
+![](https://fanart.tv/detailpreview/fanart/movies/39538/movieposter/contagion-541447379a846.jpg)
+
+A movie about a pandemic, what more can you ask for, lol
 
 ### Happy Death Day
 
