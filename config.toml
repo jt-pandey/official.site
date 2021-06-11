@@ -1,48 +1,34 @@
 baseurl = "https://jt-pandey.tk/"
 languageCode = "en-us"
-theme = "hugo-theme-hello-friend"
 paginate = 5
-
+theme = "hugo-theme-hello-friend"
+[languages.en]
+copyright = "jatin pandey"
+dateFormatList = "2006-01-02"
+dateFormatSingle = "2006-01-02"
+keywords = "jt-pandey jatin pandey jatinpandey jtpandey"
+menuMore = "Show more"
+minuteReadingTime = "min read"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+subtitle = "About me"
+title = "jt-pandey"
+writtenBy = "Written by"
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+[[languages.en.menu.main]]
+identifier = "showcase"
+name = "Projects"
+url = "/showcase"
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "root@jt-pandey:~$"
 [params]
-  # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "post"
-  # "light" or "dark"
-  defaultTheme = "dark"
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
-  # Enable to show reading time in minutes for posts
-  showReadingTime = false
-
-[languages]
-  [languages.en]
-    title = "jt-pandey"
-    subtitle = "About me"
-    keywords = "jt-pandey jatin pandey jatinpandey jtpandey"
-    copyright = "jatin pandey"
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-
-    [languages.en.params.logo]
-      logoText = "root@jt-pandey:~$"
-      logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Projects"
-        url = "/showcase"
+contentTypeName = "post"
+defaultTheme = "dark"
+showMenuItems = 2
+showReadingTime = false
