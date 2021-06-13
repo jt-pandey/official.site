@@ -4,7 +4,7 @@ cover = "/uploads/denise-jans-inp-qd5ibxy-unsplash.jpg"
 date = 2021-06-07T18:30:00Z
 description = "List of all S-rated jt Collectibles"
 title = "THE jt COLLECTION"
-
+tags = ["movies", "sci-fi", "drama", "action"]
 +++
 The following movies are in alphabetical order, you can either scroll down (there are not that many movies in here) or use the _find in page_ option. We'll be adding the search feature soon. Click on the images for the torrent file.
 
