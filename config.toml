@@ -31,4 +31,5 @@ logoText = "root@jt-pandey:~$"
 contentTypeName = "post"
 defaultTheme = "dark"
 showMenuItems = 2
-showReadingTime = false
+showReadingTime = true
+toc=true
