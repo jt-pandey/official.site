@@ -32,4 +32,4 @@ contentTypeName = "post"
 defaultTheme = "dark"
 showMenuItems = 2
 showReadingTime = true
-toc=true
+toc=false
